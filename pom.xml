@@ -10,7 +10,7 @@
 		scala-starter-parent
 	</artifactId>
 	<version>
-	   1.0-SNAPSHOT
+	   1.0
 	</version>
 	<packaging>
 		pom
@@ -76,7 +76,7 @@
 			https://github.com/shamndor/mavn-scala-starter-files
 		</url>
 		 
-	  <tag>HEAD</tag>
+	  <tag>scala-starter-parent-1.0</tag>
   </scm>
 	<distributionManagement>
 		<repository>
