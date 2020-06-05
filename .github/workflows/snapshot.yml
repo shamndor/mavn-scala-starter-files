@@ -3,7 +3,7 @@ on:
    push:
      branches:
        - develop
-job:
+jobs:
   build:
     steps:
       - uses: actions/checkout@V2
