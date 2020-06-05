@@ -17,7 +17,7 @@
 	</packaging>
 	<properties>
 		<project.scm.id>
-			github-mavn-scala-starter-files
+		 github
 		</project.scm.id>
 		<scala-library-version>
 			2.11
@@ -81,7 +81,7 @@
 	<distributionManagement>
 		<repository>
 			<id>
-				github-mavn-scala-starter-files
+				github
 			</id>
 			<name>
 				GitHub  scala-starter-files Apache Maven Packages
